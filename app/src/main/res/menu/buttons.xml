@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon= "@drawable/planet"
+        android:title="planet"
+        android:id="@+id/planet"
+        android:iconTint="@null"
+        />
+
+    <item
+        android:icon="@drawable/rocket"
+        android:title="rocket"
+        android:id="@+id/rocket"
+    />
+
+    <item
+        android:icon="@drawable/staff"
+        android:title="staff"
+        android:id="@+id/staff"
+    />
+
+    </menu>

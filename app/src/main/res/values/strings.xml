@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home, PlanetCode</string>
+    <stirng name ="planet"></stirng>
+    <stirng name ="rocket"></stirng>
+    <stirng name ="staff"></stirng>
+
+</resources>
